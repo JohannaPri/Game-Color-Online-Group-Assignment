@@ -9,7 +9,7 @@ Simon Stenström
 Anna Karlsen
 - Github: [@annkar73](https://github.com/annkar73)  
 
-Johanna Larsson
+Johanna Prinz
 - Github: [@JohannaPri](https://github.com/JohannaPri)  
 
 Mustafa Mehdi
