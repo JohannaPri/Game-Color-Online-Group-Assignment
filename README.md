@@ -3,14 +3,14 @@ Repo för grupparbete i FED23, API Kurs. Grupp: gridSock 9
 
 #### Deltagare i projektet: 
 
+Johanna Prinz
+- Github: [@JohannaPri](https://github.com/JohannaPri)  
+
 Simon Stenström
 - Github: [@bucky-13](https://github.com/bucky-13)
 
 Anna Karlsen
 - Github: [@annkar73](https://github.com/annkar73)  
-
-Johanna Prinz
-- Github: [@JohannaPri](https://github.com/JohannaPri)  
 
 Mustafa Mehdi
 - Github: [@MustafaaMehdi](https://github.com/MustafaaMehdi)  
